@@ -1,7 +1,5 @@
 #!/bin/bash
 
-sudo passwd
-su
 apt-get update
 apt-get upgrade
 echo "" > /etc/defaut/locale
